@@ -1,0 +1,33 @@
+.barcontainer{
+    display: flex;
+    gap: 4px;
+    justify-content: space-between;
+    font-weight: 600; 
+    padding: 10px;
+    border-radius: 12px;
+    width: 13rem;
+}
+
+.frac{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  
+}
+
+.fixedFraction{
+  color: #b3b3b3;
+}
+
+.fraction{
+  color: #0e043b;
+}
